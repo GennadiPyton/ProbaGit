@@ -18,6 +18,7 @@ public class ProbaGit {
         // TODO code application logic here
         System.out.println("Первая версия програмы.");
         System.out.println("Вторая версия програмы.");
+        System.out.println("Третия версия програмы.");
     }
     
 }
